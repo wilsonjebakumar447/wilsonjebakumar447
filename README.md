@@ -1,15 +1,15 @@
 # Hi there, I'm J WILSON JEBA KUMAR 👋
 
-First-Year ECE Student | Aspiring VLSI & Semiconductor Engineer | Digital Electronics & Embedded Logic
+First-Year ECE Student | Aspiring VLSI & Semiconductor Engineer | learning Digital Electronics & C/Python
 
 ---
 
 ### 💻 About Me
-- 🎓 **Education:** Pursuing a Bachelor of Engineering (B.E.) in Electronics and Communication Engineering at St. Joseph's College of Engineering, Chennai[span_4][span_4].
-- 🎯 **Career Goal:** Aspiring VLSI and Semiconductor Engineer working toward digital circuit design and silicon architecture[span_5][span_5][span_6][span_6].
-- 🛠️ **Currently Learning:** Structural C programming, Python logic building, digital electronics, logic gate configurations, and algorithmic problem solving[span_7][span_7].
-- 🔬 **Core Focus:** Bridging low-level code execution with hardware logic and digital circuit design[span_8][span_8].
-- 💬 **Spoken Languages:** Tamil (Native) | English (Professional) | Hindi (Elementary/Learning)
+- 🎓 **Education:** Pursuing a Bachelor of Engineering (B.E.) in Electronics and Communication Engineering @ St. Joseph's College of Engineering, Chennai.
+- 🎯 **Career Goal:** Aspiring VLSI and Semiconductor Engineer working toward digital circuit design and silicon architecture.
+- 🛠️ **Currently Learning:** Structural C programming, Python logic building, digital electronics, logic gate configurations, and algorithmic problem solving.
+- 🔬 **Core Focus:** Bridging low-level code execution with hardware logic and digital circuit design.
+- 💬 **Spoken Languages:** Tamil (Native) | English (Professional) | Hindi (Learning)
 
 ---
 
@@ -25,11 +25,11 @@ First-Year ECE Student | Aspiring VLSI & Semiconductor Engineer | Digital Electr
 ---
 
 ### 🚀 Career Roadmap
-- [x] Enrolled in first-year B.E. ECE and initialized professional developer profile[span_9][span_9].
-- [x] Building strong foundations in C, Python, and digital logic design[span_10][span_10].
-- [ ] Master digital circuit design workflows and circuit simulation tools[span_11][span_11].
-- [ ] Learn Hardware Description Languages (Verilog / VHDL) for VLSI synthesis[span_12][span_12].
-- [ ] Secure an engineering role in the semiconductor and VLSI industry[span_13][span_13].
+- [x] Enrolled in first-year B.E. ECE and initialized professional developer profile.
+- [x] Building strong foundations in C, Python, and digital logic design.
+- [ ] Master digital circuit design workflows and circuit simulation tools.
+- [ ] Learn Hardware Description Languages (Verilog / VHDL) for VLSI synthesis.
+- [ ] Secure an engineering role in the semiconductor and VLSI industry.
 
 ---
 

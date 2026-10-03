@@ -46,4 +46,3 @@ First-Year ECE Student | Aspiring VLSI & Semiconductor Engineer | learning Digit
 ### 📫 Connect With Me
 - 🤝 Open to discussions on VLSI design, semiconductor trends, logic circuits, and beginner coding workflows!
 - ✉️ Drop a line or connect to collaborate on foundational tech projects!
--

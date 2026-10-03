@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm J WILSON JEBA KUMAR 👋
 
-<!--
-**wilsonjebakumar447/wilsonjebakumar447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-Year ECE Student | Hardware & Embedded Systems Enthusiast | Aspiring VLSI Designer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 **Education:** Pursuing a B.E. in Electronics and Communication Engineering at St. Joseph's College of Engineering, Chennai.
+- 🔬 **Interests:** Computer hardware assembly, low-level logic, microprocessor architectures, and embedded electronics.
+- 🛠️ **Currently Learning:** Structural C programming, Python logic building, and digital circuit fundamentals.
+- ⚙️ **Hands-on Passion:** PC hardware troubleshooting, configuring lightweight Linux environments, and reverse-engineering tech.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C, Python (Syntax & Core Logic) |
+| **Operating Systems** | Windows, Linux (Mint XFCE, lightweight distributions) |
+| **Hardware & Electronics** | Digital Logic Design, Circuit Fundamentals, PC Troubleshooting |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+### 🚀 Career Roadmap
+- [x] Completed engineering enrollment and initialized developer profile.
+- [ ] Master structured problem-solving and algorithms in C & Python.
+- [ ] Dive into microprocessors (8085 architecture) and circuit simulation tools.
+- [ ] Explore Hardware Description Languages (Verilog/VHDL) for VLSI design.
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilsonjebakumar447&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📫 Connect With Me
+- 📧 Reach out for collaboration on foundational coding projects or hardware discussions!
+-
